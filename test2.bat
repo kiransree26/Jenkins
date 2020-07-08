@@ -1,2 +1,2 @@
 cd d:\test1
-md test2
+md d:\test1\test2
