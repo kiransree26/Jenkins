@@ -1,0 +1,1 @@
+aws ec2 run-instances --image-id ami-0a83d9223efc49d62 --count 1 --instance-type t2.micro --key-name test --security-groups testsecgroup
